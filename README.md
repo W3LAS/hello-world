@@ -1,2 +1,3 @@
 # hello-world
-just browsing
+just browsing this
+trying to learn how to use
